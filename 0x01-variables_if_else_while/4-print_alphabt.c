@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <unstd.h>
+
 /**
  * main - Entry point
  * Description: prints lowercase alphabets
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int ch;
