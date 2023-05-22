@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * main - a function that prints out an outuput
+ * main - Entry point
  *
  * Return: 0 (success)
  */
